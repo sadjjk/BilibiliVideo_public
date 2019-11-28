@@ -1,7 +1,7 @@
 # BilibiliVideo
 
 
-网站：[BilibiliVideo](http://121.40.197.122/index)  
+网站：[BilibiliVideo](http://www.wjinyu.top:233)  
 
 **不公开源码 仅提供技术思路 如有疑惑 可留言**
 
