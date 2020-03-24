@@ -5,10 +5,10 @@
 
 **不公开源码 仅提供技术思路 如有疑惑 可留言**
 
-- [BilibiliVideo-缘起篇](https://www.wjinyu.top:233/post/BilibiliVideo_begin/)      ——不讲技术只讲废话
-- [BilibiliVideo-实现篇-基础篇](https://www.wjinyu.top:233/post/BilibiliVideo_realize/)      ——只有干货没有废话 
-- [BilibiliVideo-实现篇-优化篇](https://www.wjinyu.top:233/post/BilibiliVideo_optimize/)      ——只有干货没有废话 
-- [BilibiliVideo-后话篇](https://www.wjinyu.top:233/post/BilibiliVideo_last/)      ——又说废话没有技术
+- [BilibiliVideo-缘起篇](https://blog.wjinyu.top/post/BilibiliVideo_begin/)      ——不讲技术只讲废话
+- [BilibiliVideo-实现篇-基础篇](https://blog.wjinyu.top/post/BilibiliVideo_realize/)      ——只有干货没有废话 
+- [BilibiliVideo-实现篇-优化篇](https:/blog.wjinyu.top/post/BilibiliVideo_optimize/)      ——只有干货没有废话 
+- [BilibiliVideo-后话篇](https://blog.wjinyu.top/post/BilibiliVideo_last/)      ——又说废话没有技术
 
 BilibiliViedeo  V1.0(暂且称为1.0)    
 前前后后 花了一个月的闲(咸)余(鱼)时间  
